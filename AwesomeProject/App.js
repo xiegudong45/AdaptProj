@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { StyleSheet, Text, View, Button, Alert } from 'react-native';
-import MyButton from './app/components/MyButton';
 import MyTextInput from './app/components/MyTextInput';
 
 export default class App extends Component {
@@ -9,7 +8,6 @@ export default class App extends Component {
       <View style={styles.container}>
         <Text style={styles.font}>First React App</Text>
         <MyTextInput/>
-
       </View>
     );
   }

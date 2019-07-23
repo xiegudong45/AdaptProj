@@ -3,6 +3,7 @@
 * Simualtor: Iphone XR
 * IDE: WebStorm 2019.1
 * npm: 6.10.1
+* node: v10.15.3
 * expo: ^33.0.0
 * react: 16.8.3
 * react-dom: ^16.8.6,
